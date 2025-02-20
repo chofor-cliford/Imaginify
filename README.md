@@ -1,6 +1,6 @@
-## Flowly
+## Imaginify
 
-Flowly is an AI SaaS platform built using Vite.js and MERN stack. It provides powerful image processing capabilities, integrates a secure payment infrastructure, and offers advanced image search functionalities. With Flowly, you can explore features like image restoration, recoloring, object removal, generative filling, and background removal.
+Imaginify is an AI SaaS platform built using Vite.js and MERN stack. It provides powerful image processing capabilities, integrates a secure payment infrastructure, and offers advanced image search functionalities. With Imaginify, you can explore features like image restoration, recoloring, object removal, generative filling, and background removal.
 
 ## Tech Stack
 
@@ -18,8 +18,8 @@ Flowly is an AI SaaS platform built using Vite.js and MERN stack. It provides po
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/chofor-cliford/Flowly.git
-cd Flowly
+git clone https://github.com/chofor-cliford/Imaginify.git
+cd Imaginify
 ```
 
 **Installation**
