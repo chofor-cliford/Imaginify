@@ -1,4 +1,4 @@
-import { dataUrl, download, getImageSize } from "@/lib/utils";
+import { download, getImageSize } from "@/lib/utils";
 import { TransformedImageProps } from "@/types";
 import { useEffect } from "react";
 
